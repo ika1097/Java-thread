@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProbniKolokvijum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProbniKolokvijum_jar</output-path>
+    <root id="archive" name="ProbniKolokvijum.jar">
+      <element id="module-output" name="ProbniKolokvijum" />
+    </root>
+  </artifact>
+</component>
